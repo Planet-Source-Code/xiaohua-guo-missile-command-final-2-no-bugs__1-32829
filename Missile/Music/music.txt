@@ -1,0 +1,13 @@
+put your music files here, they have to be wave files
+file names should be 
+1.wav		these are menu musics, music you here when you're not playing the game
+2.wav
+3.wav
+4.wav
+5.wav
+m1.wav		these are ingame musics, every mission has a different music file
+m2.wav
+........
+m21.wav
+
+all files can be any length, just not too big
